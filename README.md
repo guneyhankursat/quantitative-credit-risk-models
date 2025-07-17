@@ -53,4 +53,4 @@ This project aligns closely with roles in:
 ---
 
 ## 📬 Let's Connect
-Feel free to explore the notebook or [connect with me on LinkedIn](https://www.linkedin.com/in/guneyhankaan-kursat) if you'd like to discuss quantitative modelling, credit analytics, or FinTech innovation. 
+Feel free to explore the notebook or [connect with me on LinkedIn](https://www.linkedin.com/in/guneyhankaankursat) if you'd like to discuss quantitative modelling, credit analytics, or FinTech innovation. 
